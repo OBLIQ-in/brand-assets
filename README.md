@@ -16,6 +16,8 @@ brand-assets/
 │   └── tokens.json             ← Hex, RGB, and CSS variable definitions
 ├── screenshots/
 │   └── README.md               ← Checklist & specs for product UI screenshots (#18, #19, #20)
+├── imagery/
+│   └── README.md               ← Guidelines for illustrations, banners & marketing graphics
 └── README.md                   ← Brand guidelines & documentation
 ```
 
