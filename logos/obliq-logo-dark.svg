@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" fill="none">
+  <rect width="320" height="80" rx="12" fill="#1a1a2e"/>
+  <!-- Logo Box -->
+  <rect x="24" y="20" width="180" height="40" rx="6" stroke="#c8f560" stroke-width="3" fill="#16213e"/>
+  <text x="36" y="48" font-family="'Courier New', Courier, monospace" font-size="28" font-weight="900" fill="#f5f0e8" letter-spacing="2">OBLIQ</text>
+  <!-- .in TLD -->
+  <text x="212" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#7b8cde">.in</text>
+</svg>
